@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/memory-lane/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Memory Lane](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/memory-lane/) |
+| **Get License** | [Secure Licensing Rights for Memory Lane](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/memory-lane/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> We park right here beneath the neon sign,
+> Just like we did back in the summertime.
+> You trace my collar with a velvet touch,
+> I never knew I could want you this much.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
