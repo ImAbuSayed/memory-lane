@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/memory-lane/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Memory Lane](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/memory-lane/) |
+| **Get License** | [Official Music Licensing for Memory Lane](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/memory-lane/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3fd5bbc95ab56ef44caac71b21510c9eb064216a31f70fb1345650e890e3bece` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
